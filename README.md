@@ -1,0 +1,1 @@
+yebot is a open source  project that allows beginners to practice JS, the goal is to create a bot for WhatsApp that allows you to do all kinds of actions, say, such as duplicating a sentence, splitting a word into letters, etc.
