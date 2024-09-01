@@ -1,2 +1,5 @@
 node_modules/
-src/.wwebjs_auth/sessi
+src/.wwebjs_auth/
+src/.wwebjs_cache/
+.wwebjs_cache/
+.wwebjs_auth/
